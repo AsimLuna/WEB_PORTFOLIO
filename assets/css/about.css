@@ -1,0 +1,24 @@
+body {
+  color: white;
+}
+table {
+  width: 40%;
+  margin-top: 10px;
+}
+th {
+  padding: 10px;
+  background-color: #f58a07;
+}
+td {
+  padding: 10px;
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+
+.container {
+  margin-top: 20px;
+  background-color: #5a7d7c;
+  border-radius: 15px;
+}

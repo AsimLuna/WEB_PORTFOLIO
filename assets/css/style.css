@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+  font-family: "Rubik", sans-serif;
+}
+
+header {
+  background-color: #5a7d7c;
+  padding: 10px 50px;
+}
+nav > ul {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  column-gap: 70px;
+  font-size: 16px;
+}
+body {
+  font-size: 85%;
+  background: url(http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/bg1.jpg)
+    no-repeat center center fixed;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+body > div {
+  width: 90%;
+  margin: auto;
+  padding: 10px 20px;
+}
+li i {
+  margin-right: 5px;
+}
+nav ul {
+  align-items: center;
+}

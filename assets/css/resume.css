@@ -1,0 +1,27 @@
+body {
+  color: white;
+}
+.container {
+  margin-top: 20px;
+  background-color: #5a7d7c;
+  border-radius: 15px;
+}
+
+hr {
+  border-bottom: 3px dotted white;
+}
+li {
+  list-style: none;
+}
+.content {
+  margin-top: 20px;
+}
+.content > div {
+  padding: 10px 20px;
+}
+h2 {
+  border-bottom: 3px solid white;
+}
+.section > div {
+  padding: 10px;
+}

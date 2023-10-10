@@ -1,0 +1,41 @@
+body {
+  color: white;
+}
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 12px;
+  margin: 4px 0;
+  border: 2px solid black;
+  border-radius: 4px;
+  color: black;
+}
+input[type="submit"] {
+  width: 100%;
+  background-color: #cca43b;
+  padding: 14px 20px;
+  color: whitesmoke;
+  cursor: pointer;
+  font-weight: bolder;
+}
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
+input[type="checkbox"] {
+  margin-top: -1px;
+  vertical-align: middle;
+}
+label {
+  padding: 10px 10px;
+}
+.container {
+  margin-top: 20px;
+  background-color: #5a7d7c;
+  border-radius: 15px;
+}
+fieldset {
+  margin: 25px 5px;
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}

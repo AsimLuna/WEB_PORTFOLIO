@@ -1,0 +1,64 @@
+* {
+  color: white;
+}
+.contacts {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+.container {
+  margin-top: 20px;
+  background-color: #5a7d7c;
+  border-radius: 15px;
+}
+.container h2 {
+  text-align: center;
+}
+.contact_elements:first-child {
+  margin-top: 30px;
+}
+h3 {
+  text-align: center;
+}
+.contact_elements ul {
+  list-style: none;
+}
+.contactList {
+  text-align: center;
+}
+.contactList li {
+  padding: 10px;
+}
+form {
+  align-items: center;
+  text-align: center;
+}
+body > div {
+  width: 90%;
+  margin: 0px auto;
+  padding: 10px 20px;
+}
+input[type="text"],
+select {
+  width: 80%;
+  padding: 12px 12px;
+  margin: 4px 0;
+  border: 1px solid white;
+  border-radius: 4px;
+  color: black;
+}
+option {
+  color: black;
+}
+input[type="submit"] {
+  width: 20%;
+  background-color: #cca43b;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input select {
+  margin-right: 0;
+}
